@@ -1,0 +1,15 @@
+D:\universal-inventory-system\universal-inventory-system\InventorySystem\obj\Debug\net9.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\universal-inventory-system\universal-inventory-system\InventorySystem\obj\Debug\net9.0\InventorySystem.AssemblyInfoInputs.cache
+D:\universal-inventory-system\universal-inventory-system\InventorySystem\obj\Debug\net9.0\InventorySystem.AssemblyInfo.cs
+D:\universal-inventory-system\universal-inventory-system\InventorySystem\obj\Debug\net9.0\InventorySystem.csproj.CoreCompileInputs.cache
+D:\universal-inventory-system\universal-inventory-system\InventorySystem\obj\Debug\net9.0\InventorySystem.sourcelink.json
+D:\universal-inventory-system\universal-inventory-system\InventorySystem\bin\Debug\net9.0\InventorySystem.exe
+D:\universal-inventory-system\universal-inventory-system\InventorySystem\bin\Debug\net9.0\InventorySystem.deps.json
+D:\universal-inventory-system\universal-inventory-system\InventorySystem\bin\Debug\net9.0\InventorySystem.runtimeconfig.json
+D:\universal-inventory-system\universal-inventory-system\InventorySystem\bin\Debug\net9.0\InventorySystem.dll
+D:\universal-inventory-system\universal-inventory-system\InventorySystem\bin\Debug\net9.0\InventorySystem.pdb
+D:\universal-inventory-system\universal-inventory-system\InventorySystem\obj\Debug\net9.0\InventorySystem.dll
+D:\universal-inventory-system\universal-inventory-system\InventorySystem\obj\Debug\net9.0\refint\InventorySystem.dll
+D:\universal-inventory-system\universal-inventory-system\InventorySystem\obj\Debug\net9.0\InventorySystem.pdb
+D:\universal-inventory-system\universal-inventory-system\InventorySystem\obj\Debug\net9.0\InventorySystem.genruntimeconfig.cache
+D:\universal-inventory-system\universal-inventory-system\InventorySystem\obj\Debug\net9.0\ref\InventorySystem.dll
